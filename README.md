@@ -93,7 +93,7 @@ MethodEndpointDescriptionPOST/api/auth/registerRegister new userPOST/api/auth/lo
 Pradeep Kumar S
 
 
-GitHub: @pradeepFD
+GitHub: github.com/pradeepkumar-webdeveloper
 LinkedIn: linkedin.com/in/pradeepkumars
 Email: pradeep8754491662@gmail.com
 
